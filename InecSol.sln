@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InecSol", "InecSol\InecSol.csproj", "{11A8BB04-D2A9-42D7-812C-CD7DD4E2E01E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11A8BB04-D2A9-42D7-812C-CD7DD4E2E01E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A8BB04-D2A9-42D7-812C-CD7DD4E2E01E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A8BB04-D2A9-42D7-812C-CD7DD4E2E01E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A8BB04-D2A9-42D7-812C-CD7DD4E2E01E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0BB9462-23CD-4EB1-B78B-2F0EC176B536}
+	EndGlobalSection
+EndGlobal
